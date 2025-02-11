@@ -1,0 +1,60 @@
+.grid {
+    display: grid;
+    grid-template-rows: 400px 400px;
+}
+
+
+.grid-cell{
+    height: 200px;
+    background-color: white;
+    padding:50px;
+}
+
+.green-text{
+    color: green;
+}
+
+      
+.grid-cell2{
+  
+  background-color: #fff;
+  height: 200px;
+  padding:20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+    
+}
+
+
+.heading {
+   
+    background-color: orange;
+   
+  
+        
+        top: 5px;
+        left: 10px;
+       position: center;
+        
+        color: black;
+        font-weight: bold;
+        padding: 5px 50px;
+      
+        border-radius: 5px;
+        
+      }
+
+      body{
+        background-color: grey;
+      }
+
+     
+        
+     
+        
+     
+  
+    
+   
+    
+  
